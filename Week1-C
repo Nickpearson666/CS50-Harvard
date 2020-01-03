@@ -1,1 +1,20 @@
+Here are something I learnt from CS50 From Harvard University.
+Thanks Professor David.
 
+1. ASCII refers to American standard code for Information
+
+2. souce(eg:c)--->compiler--->machine code(eg:101010).
+
+3.'/' slash , '%s',place holder in C.
+
+4.When we use printf to print a string, this function will find the '\0' inn the end.
+
+string is acutually an array, which store a list of chars.
+
+5.In C, main function could use perimeter: int argv, argv[]. argv[0] is the name of the progarm and argv[1] is the real perimeter.
+
+6.Ω stands the best case of the progarm. eg, for binary search is 1.
+
+7.Recursion is the way to divide a problem into smaller pieces, which contanins base case and loop.
+
+8.For merge sort, the average is O(n*logn). n means the time of merge and logn means the number of dividing.
