@@ -1,0 +1,16 @@
+Thanks Pro David 
+Here are somrthing I  learnt from CS50
+
+1.RGB are represented by 16. eg:R(FF)G(00)B(00), this color is red
+
+2.point are 8 bytes
+
+3.Stirng is actually  a set  of char and an address
+
+4.Different memory = Different string
+
+5.we could use malloc to avoid this question but remember to free afer using it.
+
+6.Heap is where I can get some memory form ,eg malloc
+
+7.Stack is where I could store some local variable in main and function 
