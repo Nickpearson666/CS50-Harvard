@@ -1,0 +1,30 @@
+1.In c, we could use remalloc to reallocate the anthoer memory in PC.
+
+2.null is a pointer ,null = '\0'
+
+3.Queue is a FIFO list, which means first in and first out.
+
+4.Stack is a LIFO list, which means last in first out.
+
+5.Dictionary contains key - value.
+
+5.In python, printf(f"Hello,{answer}"), f means format output.
+
+5.In python,  for loop is more easier, eg
+for i in range(3)
+printf("cough");
+
+6.list  = mutatable values / tuple  = immutatble values
+
+7.We could also use or to replace ||
+
+8.input fucntion we could get a input from user.
+
+9.In python , == can be use in string.
+
+10.CSV file likes EXcel .
+
+11.regular expressions !! 
+
+
+
